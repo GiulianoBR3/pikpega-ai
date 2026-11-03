@@ -1,0 +1,9 @@
+{
+  "routes": [
+    { "path": "/", "title": "Pikpega — Home" },
+    { "path": "/index.html", "title": "Pikpega — Home" },
+    { "path": "/kids.html", "title": "Moda Infantil — Pikpega" },
+    { "path": "/adulto.html", "title": "Moda Adulto — Pikpega" },
+    { "path": "/redes.html", "title": "Contate-nos — Pikpega" }
+  ]
+}

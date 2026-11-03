@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" role="img" aria-labelledby="title desc">
+  <title id="title">Pikpega — Infantil e Adulto</title>
+  <desc id="desc">Logotipo azul com arcos coloridos e o nome Pikpega.</desc>
+  <rect width="720" height="240" rx="42" fill="#D8EBCB"/>
+  <g transform="translate(35 24)" fill="none" stroke-linecap="round" stroke-width="15">
+    <path d="M30 168a78 78 0 0 1 156 0" stroke="#C3265B"/>
+    <path d="M50 168a58 58 0 0 1 116 0" stroke="#FFD84D"/>
+    <path d="M70 168a38 38 0 0 1 76 0" stroke="#62C4F5"/>
+  </g>
+  <circle cx="67" cy="198" r="8" fill="#FF8A2B"/>
+  <circle cx="199" cy="198" r="8" fill="#A778C8"/>
+  <text x="236" y="132" fill="#416BC7" font-family="Trebuchet MS, Arial, sans-serif" font-size="104" font-weight="700" letter-spacing="-5">Pikpega</text>
+  <text x="246" y="180" fill="#C3265B" font-family="Trebuchet MS, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="6">INFANTIL E ADULTO</text>
+</svg>
